@@ -1,0 +1,32 @@
+#banner{
+	z-index: -1;
+}
+.button{
+	width: 30%;
+	height: 50px;
+	/* border: 2px solid ; */
+	background-image: linear-gradient(to right, rgba(106, 5, 238, 0.5), black);
+	border-radius: 15px;}
+
+.btn{
+	background-image: radial-gradient(circle, rgba(106, 5, 238, 0.5), black);
+}
+
+#anime1:hover{
+	transform: scale(1.1);
+}
+#anime2:hover{
+	transform: scale(1.1);
+}
+#anime3:hover{
+	transform: scale(1.1);
+}
+#anime4:hover{
+	transform: scale(1.1);
+}
+#anime5:hover{
+	transform: scale(1.1);
+}
+#anime6:hover{
+	transform: scale(1.1);
+}

@@ -1,0 +1,11 @@
+.navbar{
+	background-image: linear-gradient(to right,#0d425d, #030824);
+}
+.dropdown-menu{
+	background-image: linear-gradient(to right,#0d425d, #030824);
+}
+.main{
+	width: 75%;
+	height: 75%;
+	backdrop-filter: blur(70px);
+}
